@@ -23,8 +23,6 @@ public class A extends EasyLVAdapter<String> {
         this.context=context;
 
 
-        Log.e("zq","我提交了");
-        Log.e("zq","wo you");
 
 
 
