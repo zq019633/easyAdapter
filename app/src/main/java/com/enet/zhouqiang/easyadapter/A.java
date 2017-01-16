@@ -22,7 +22,7 @@ public class A extends EasyLVAdapter<String> {
         this.list=list;
         this.context=context;
 
-
+        Log.e("zq","加加加");
 
 
 
