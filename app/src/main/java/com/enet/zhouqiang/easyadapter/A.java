@@ -24,6 +24,7 @@ public class A extends EasyLVAdapter<String> {
 
 
         Log.e("zq","我提交了");
+        Log.e("zq","wo you");
 
 
 
